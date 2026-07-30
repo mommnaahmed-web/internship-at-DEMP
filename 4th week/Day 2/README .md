@@ -1,7 +1,7 @@
 # Tesla Stock Price Prediction using RNN, LSTM, and GRU
 ### Sequence Modeling for Time-Series Forecasting
 
-**Prepared by:** Your Name, Alishba & Mommna
+**Prepared by:**  Mommna
 
 ---
 
