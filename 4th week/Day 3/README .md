@@ -11,6 +11,7 @@ This project classifies **fashion product images** from the **Fashion-MNIST** da
 
 **Key Result:** CNN achieves **87.95%** test accuracy with **206,922** parameters — outperforming a comparable ANN (80.32%) while using fewer parameters and preserving spatial structure.
 
+---
 
 ## 1. Topic: What is a CNN?
 
